@@ -1,0 +1,19 @@
+{
+  "name": "node.js-desde-0",
+  "version": "1.0.0",
+  "description": "Primer proyecto curso node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tareas":"node -v && npm audit && node index.js"
+  },
+  "keywords": [
+    "npm",
+    "javascript"
+  ],
+  "author": "Michelle Cifuentes",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
