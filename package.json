@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "tareas":"node -v && npm audit && node index.js"
+    "tareas": "node -v && npm audit && node index.js"
   },
   "keywords": [
     "npm",
@@ -14,6 +14,8 @@
   "author": "Michelle Cifuentes",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.3.3"
+    "alertifyjs": "^1.14.0",
+    "bootstrap": "^5.3.3",
+    "colors": "^1.4.0"
   }
 }
